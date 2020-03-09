@@ -3,7 +3,7 @@
 /**
  * WP Reboot
  * https://www.binarypoets.net/wp-reboot
- * (c) BinaryPoets, 2017-2019
+ * (c) BinaryPoets, 2020
  */
 
 
